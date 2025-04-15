@@ -1,0 +1,1 @@
+ComprovativoUpload.js com upload de imagem

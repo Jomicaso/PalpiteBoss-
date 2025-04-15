@@ -1,0 +1,1 @@
+firebase.js com config Firebase
